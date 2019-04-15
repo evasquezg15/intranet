@@ -1,4 +1,4 @@
- <!-- Page -->
+ <!-- Page change-->
   <div class="page animsition">
     <div class="page-header page-header-bordered">
       <h1 class="page-title">Administración</h1>
